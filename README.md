@@ -3,11 +3,11 @@ A driver security system that ensures road safety using Machine Intelligence to 
 
 #### HARDWARE USED:
 1. Raspberry Pi <br>
-2. geared motors (in this case fixed to the chassis)
-          3. L293D Motor Driver (eagle schematics included in the repository)
-          4. Rechargeable batteries (18560 salvaged from an old laptop)
-          5. TP4056 (18560 Li-ion battery charger)
-          6. XL6009 (DC-DC Boost Converter)
+2. geared motors (in this case fixed to the chassis) <br>
+3. L293D Motor Driver (eagle schematics included in the repository) <br>
+4. Rechargeable batteries (18560 salvaged from an old laptop) <br>
+5. TP4056 (18560 Li-ion battery charger) <br>
+6. XL6009 (DC-DC Boost Converter) <br>
 
-*NOTE:  Python files are executable only on a Raspberry Pi (any version)*
+**NOTE:  ***Python files are executable only on a Raspberry Pi (any version)*
 
